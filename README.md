@@ -1,3 +1,3 @@
 # basiccrud
-database will be added here.
+database is in the asset folder.
 database name: basiccrude
